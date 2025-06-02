@@ -1,5 +1,5 @@
 let deadline = new Date(
-    "June 6, 2025 12:00:00"
+    "6 June, 2025 12:00:00"
 ).getTime();
 
 // Calling defined function at certain interval
